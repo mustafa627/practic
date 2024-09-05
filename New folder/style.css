@@ -1,0 +1,48 @@
+.nav{
+display: flex;
+justify-content: space-between;
+justify-content: end;
+
+}
+
+.card{
+    font-weight: bold;
+}
+
+.whole{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  
+ justify-content: center; 
+   
+}
+
+.nav{
+    justify-content: end;
+}
+.main{
+    display: flex;
+}
+
+.main{
+    margin: auto;
+}
+
+.name{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.h3{
+    background-color: yellow
+    ;
+}
+
+
+.margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
